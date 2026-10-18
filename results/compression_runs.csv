@@ -1,0 +1,9 @@
+codec,run,wall_s,exec_ms
+gzip,cold,5.307,3889
+gzip,warm1,2.328,1348
+gzip,warm2,1.842,913
+gzip,warm3,1.801,824
+zstd,cold,5.321,3958
+zstd,warm1,2.532,1459
+zstd,warm2,1.783,810
+zstd,warm3,1.723,758
